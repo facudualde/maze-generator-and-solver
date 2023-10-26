@@ -1,0 +1,9 @@
+dimension:
+50
+fixed obstacles:
+random obstacles:
+2000
+initial position:
+(1,1)
+objective:
+(50,50)
